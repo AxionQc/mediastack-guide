@@ -6,7 +6,7 @@ This guide will help you rapidly deploy all the applications you need in a full 
 
 ## Why MediaStack.Guide
 
-Building a good home media stack is not an easy task for people who aren't computer savy. Reasearching / picking the right applications for each role you need can be a frustrating activity if you don't know how each of the applications work, and worse, if you need to link them together to build a full home media solution.
+Building a good home media stack is not an easy task for people who aren't computer savy. Researching / picking the right applications for each role you need can be a frustrating activity if you don't know how each of the applications work, and worse, if you need to link them together to build a full home media solution.
 
 While there are many good technical sites on the Internet which discuss how to configure some of the applications, these take time to set up and configure each of the applications one-by-one, before moving on to a different website to configure the next application - there really aren't many sites dedicated to covering a "complete setup" of all the applications needed, and covering the configuration steps for all of the applications so they all work together.
 
