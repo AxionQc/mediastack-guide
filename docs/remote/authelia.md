@@ -194,7 +194,7 @@ access_control:
   rules:
   - domain: auth.example.com
     policy: bypass
-  - domain: example.com, *.example.com
+  - domain: ["example.com", "*.example.com"]
     policy: two_factor
 
 session:
